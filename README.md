@@ -51,5 +51,19 @@
     
    3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
 
+[Terraform Playbook](https://github.com/stimul2520/fault-tolerance-hw/blob/354536ad2413cad8f84b602209e27290191cd456/vms1.tf)
 
-![Название скриншота](ссылка на скриншот)
+![1](img/1.0.png)
+![2](img/1.1.png)
+
+[Nginx Playbook](https://github.com/stimul2520/fault-tolerance-hw/blob/354536ad2413cad8f84b602209e27290191cd456/playbook-ngx1.yml)
+
+![3](img/3.png)
+![1](img/4.png)
+![1](img/5.png)
+![1](img/6.png)
+![1](img/7.png)
+![1](img/8.png)
+![1](img/9.png)
+
+
