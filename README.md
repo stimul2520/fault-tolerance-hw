@@ -58,6 +58,7 @@
 
 [Nginx Playbook](https://github.com/stimul2520/fault-tolerance-hw/blob/354536ad2413cad8f84b602209e27290191cd456/playbook-ngx1.yml)
 
+![3](img/3333.png)
 ![3](img/3.png)
 ![1](img/4.png)
 ![1](img/5.png)
